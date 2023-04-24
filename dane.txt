@@ -1,0 +1,64 @@
+1;grupowa 1;Katar;Ekwador;2022-11-20;A
+2;grupowa 1;Anglia;Iran;2022-11-21;B
+3;grupowa 1;Senegal;Holandia;2022-11-21;A
+4;grupowa 1;Stany Zjednoczone;Walia;2022-11-21;B
+5;grupowa 1;Argentyna;Arabia Saudyjska;2022-11-22;C
+6;grupowa 1;Dania;Tunezja;2022-11-22;D
+7;grupowa 1;Meksyk;Polska;2022-11-22;C
+8;grupowa 1;Francja;Australia;2022-11-22;D
+9;grupowa 1;Maroko;Chorwacja;2022-11-23;F
+10;grupowa 1;Niemcy;Japonia;2022-11-23;E
+11;grupowa 1;Hiszpania;Kostaryka;2022-11-23;E
+12;grupowa 1;Belgia;Kanada;2022-11-23;F
+13;grupowa 1;Szwajcaria;Kamerun;2022-11-24;G
+14;grupowa 1;Urugwaj;Korea Poіudniowa;2022-11-24;H
+15;grupowa 1;Portugalia;Ghana;2022-11-24;H
+16;grupowa 1;Brazylia;Serbia;2022-11-24;G
+17;grupowa 2;Walia;Iran;2022-11-25;B
+18;grupowa 2;Katar;Senegal;2022-11-25;A
+19;grupowa 2;Holandia;Ekwador;2022-11-25;A
+20;grupowa 2;Anglia;Stany Zjednoczone;2022-11-25;B
+21;grupowa 2;Tunezja;Australia;2022-11-26;D
+22;grupowa 2;Polska;Arabia Saudyjska;2022-11-26;C
+23;grupowa 2;Francja;Dania;2022-11-26;D
+24;grupowa 2;Argentyna;Meksyk;2022-11-26;C
+25;grupowa 2;Japonia;Kostaryka;2022-11-27;E
+26;grupowa 2;Belgia;Maroko;2022-11-27;F
+27;grupowa 2;Chorwacja;Kanada;2022-11-27;F
+28;grupowa 2;Hiszpania;Niemcy;2022-11-27;E
+29;grupowa 2;Kamerun;Serbia;2022-11-28;G
+30;grupowa 2;Korea Poіudniowa;Ghana;2022-11-28;H
+31;grupowa 2;Brazylia;Szwajcaria;2022-11-28;G
+32;grupowa 2;Portugalia;Urugwaj;2022-11-28;H
+33;grupowa 3;Holandia;Katar;2022-11-29;A
+34;grupowa 3;Ekwador;Senegal;2022-11-29;A
+35;grupowa 3;Walia;Anglia;2022-11-29;B
+36;grupowa 3;Iran;Stany Zjednoczone;2022-11-29;B
+37;grupowa 3;Tunezja;Francja;2022-11-30;D
+38;grupowa 3;Australia;Dania;2022-11-30;D
+39;grupowa 3;Polska;Argentyna;2022-11-30;C
+40;grupowa 3;Arabia Saudyjska;Meksyk;2022-11-30;C
+41;grupowa 3;Chorwacja;Belgia;2022-12-01;F
+42;grupowa 3;Kanada;Maroko;2022-12-01;F
+43;grupowa 3;Japonia;Hiszpania;2022-12-01;E
+44;grupowa 3;Kostaryka;Niemcy;2022-12-01;E
+45;grupowa 3;Korea Poіudniowa;Portugalia;2022-12-02;H
+46;grupowa 3;Ghana;Urugwaj;2022-12-02;H
+47;grupowa 3;Kamerun;Brazylia;2022-12-02;G
+48;grupowa 3;Serbia;Szwajcaria;2022-12-02;G
+49;1/8 finaіu;A1;B2;2022-12-03;
+50;1/8 finaіu;C1;D2;2022-12-03;
+51;1/8 finaіu;B1;A2;2022-12-04;
+52;1/8 finaіu;D1;C2;2022-12-04;
+53;1/8 finaіu;E1;F2;2022-12-05;
+54;1/8 finaіu;G1;H2;2022-12-05;
+55;1/8 finaіu;F1;E2;2022-12-06;
+56;1/8 finaіu;H1;G2;2022-12-06;
+57;1/4 finaіu;49;50;2022-12-09;
+58;1/4 finaіu;53;54;2022-12-09;
+59;1/4 finaіu;51;52;2022-12-10;
+60;1/4 finaіu;55;56;2022-12-10;
+61;Pуіfinaі;57;58;2022-12-13;
+62;Pуіfinaі;59;60;2022-12-14;
+63;O 3 miejsce;P61;P62;2022-12-17;
+64;Finaі;61;62;2022-12-18;
